@@ -1,9 +1,9 @@
-const cacheName = "Fos-FosEyeshieldGames-0.1";
+const cacheName = "fos-FosGameJump-1.0.1";
 const contentToCache = [
-    "Build/跳一跳.loader.js",
-    "Build/跳一跳.framework.js.gz",
-    "Build/跳一跳.data.gz",
-    "Build/跳一跳.wasm.gz",
+    "Build/UnityWebPage.loader.js",
+    "Build/UnityWebPage.framework.js.unityweb",
+    "Build/UnityWebPage.data.unityweb",
+    "Build/UnityWebPage.wasm.unityweb",
     "TemplateData/style.css"
 
 ];

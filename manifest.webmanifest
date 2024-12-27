@@ -1,6 +1,6 @@
 {
-    "name": "FosEyeshieldGames",
-    "short_name": "FosEyeshieldGames",
+    "name": "FosGameJump",
+    "short_name": "FosGameJump",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
