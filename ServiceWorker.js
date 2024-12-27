@@ -1,4 +1,4 @@
-const cacheName = "fos-FosGameJump-1.0.1";
+const cacheName = "fos-FosGameJump-1.0.2";
 const contentToCache = [
     "Build/UnityWebPage.loader.js",
     "Build/UnityWebPage.framework.js.unityweb",
